@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayankchauhan007
-- 👀 I’m interested in machine learning ,Artificial Intelligence and Deep Learning
-- 🌱 I’m currently learning data structure and algorithms using pyhton
-- 💞️ I’m looking to collaborate on python based projects
+- 👀 I’m full Stack Developer
+- 🌱 I’m currently learning data structure and algorithms using Java
+- 💞️ I’m looking to collaborate on Java based projects
 - 📫 How to reach me ...
                     contact me on mayankchauhan20837@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayankchauhan007
-- 👀 I’m full Stack Developer
+- 👀 I’m Java full Stack Developer
 - 🌱 I’m currently learning data structure and algorithms using Java
-- 💞️ I’m looking to collaborate on Java based projects
+- 💞️ I’m looking to collaborate on Java/SpringBoot/Angular based projects
 - 📫 How to reach me ...
                     contact me on mayankchauhan20837@gmail.com
 
